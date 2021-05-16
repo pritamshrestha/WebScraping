@@ -1,5 +1,7 @@
 # WebScraping and Data Wrangling
 Data wrangling is the process of gathering, selecting, and transforming data to solve the analytical problem in data science. On the other hand, web scraping is the method to obtain large datasets from the website that can be done using beautiful soup. These methods are essential when we need to create datasets via a website. So, Here, I have used these methods to make the datasets and implement the methodology.
+
+
 <img src="image/web_scraping.jpg" width="400px" height="300px">
 
 Steps in data wrangling:
